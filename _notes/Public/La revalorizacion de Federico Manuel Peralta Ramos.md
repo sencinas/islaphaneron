@@ -2,9 +2,9 @@
 title: La revalorizacion de Federico Manuel Peralta Ramos
 feed: show
 date: 26-04-2024
-permalink: 
-format:
+permalink: /peraltaramos
 ---
+
 - **Metadata**
     - Author: Horacio Bernardes
     - Tags: Books/Articles
